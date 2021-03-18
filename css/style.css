@@ -18,3 +18,17 @@ img {
   width: 100%;
   height: auto;
 }
+
+.animal ul li {
+  color: red;
+}
+
+.animal ol li {
+  color: blue;
+}
+
+.animal p {
+  font-weight: bolder;
+  color:blueviolet;
+  background-color: forestgreen;
+}
