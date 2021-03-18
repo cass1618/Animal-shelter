@@ -5,14 +5,16 @@ body {
  
 
 .animal {
+  text-align: center;
   border: 2px solid black;
   float: left;
   box-sizing: border-box;
   margin: 10px;
   padding: 10px;
+  width: 18%;
 }
 
 img {
-  width: 20%;
+  width: 100%;
   height: auto;
 }
